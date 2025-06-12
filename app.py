@@ -78,3 +78,4 @@ if disp_graph_2:
     st.plotly_chart(fig_sleep_mental, use_container_width=True)
 
 st.text('Fuente de información: https://www.kaggle.com/code/adilshamim8/social-media-addiction-among-students')
+st.text('Appby: Alma Valenzuela')
