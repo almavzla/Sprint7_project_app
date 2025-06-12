@@ -11,3 +11,4 @@ Esta aplicación muestra un pequeño análisis exploratorio de datos del data se
 - Gráficos de Dispersión Interactivos: Explora la relacion entre variables, como el uso de redes sociales vs.el score de adicción  y horas de sueño vs. el score de salud mental. Los gráficos de Plotly Express permiten hacer zoom, seleccionar áreas y ver detalles al pasar el mouse.
 
 La aplicación requiere que estén instalados los paquetes de pandas, streamlit, plotly y plotly-express.
+Puedes acceder a la aplicación desde este link: https://sprint7-project-app.onrender.com
