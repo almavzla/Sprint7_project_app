@@ -3,9 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 # Crear dataframe / leer el archivo csv elegido
-students_data = pd.read_csv(
-    r"C:\Users\almav\OneDrive\Documentos\Triple Ten\Sprint 7\Project_S7\Sprint7_project_app\Students Social Media Addiction.csv")
-
+students_data = pd.read_csv('Students Social Media Addiction.csv')
 st.title('Students Social Media Addiction:worried:')
 st.header('Histogramas')
 # Crear el primer histograma edad
